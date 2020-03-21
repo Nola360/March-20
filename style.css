@@ -1,0 +1,16 @@
+html, body {
+  display: flas;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Montserrat';
+  background: #240f52;
+  overflow: hidden;
+}
+
+.outer {
+  height: 300px;
+  width: 300px;
+  background: linear-gradient(135deg, #feed07 0%, #fe6a50 5%, #ed00aa 15%, #2fe3fe 50%, #8900ff 100%);
+  border-radius: 50%;
+}
